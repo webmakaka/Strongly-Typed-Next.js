@@ -66,6 +66,37 @@
 
 <br/>
 
+## 02 TypeGraphQL
+
+<br/>
+
+### 012 Introduction
+
+<br/>
+
+### 013 Installation
+
+    $ cd app
+    $ mkdir api && cd api
+    $ npm init -y
+
+<br/>
+
+    $ npm install typescript type-graphql graphql reflect-metadata
+    $ npm install --save-dev @types/node
+    $ npm install @typegoose/typegoose mongoose connect-mongo
+    $ npm install --save-dev @types/mongoose
+    $ npm install express jsonwebtoken
+    $ npm install --save-dev @types/jsonwebtoken
+
+<br/>
+
+    $ volta pin node npm
+
+<br/>
+
+    $ npx tsc --init
+
 <br/>
 
 ---
