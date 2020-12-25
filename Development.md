@@ -82,12 +82,9 @@
 
 <br/>
 
-    $ npm install typescript type-graphql graphql reflect-metadata
-    $ npm install --save-dev @types/node
-    $ npm install @typegoose/typegoose mongoose connect-mongo
-    $ npm install --save-dev @types/mongoose
-    $ npm install express jsonwebtoken
-    $ npm install --save-dev @types/jsonwebtoken
+    $ npm install typescript type-graphql graphql reflect-metadata @typegoose/typegoose mongoose connect-mongo express jsonwebtoken
+
+    $ npm install --save-dev @types/node  @types/mongoose  @types/express @types/jsonwebtoken
 
 <br/>
 
@@ -96,6 +93,42 @@
 <br/>
 
     $ npx tsc --init
+
+<br/>
+
+### 014 User Entity
+
+<br/>
+
+### 015 Decorators
+
+<br/>
+
+### 016 Ref Type
+
+<br/>
+
+### 017 Stream Entity
+
+<br/>
+
+### 018 ObjectID Scalar
+
+<br/>
+
+### 019 MyContext Middleware
+
+<br/>
+
+### 020 isAuth Middleware
+
+<br/>
+
+### 021 Typegoose Middleware
+
+<br/>
+
+### 022 User Resolver
 
 <br/>
 
